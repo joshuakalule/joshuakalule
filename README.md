@@ -5,10 +5,9 @@
     <span align="center">Joshua Kalule</span><br>
     <small align="center" font-size="15"></small>
 </p>
----
 
 # 💫 About Me:<br>
-🔭 I’m currently working on the backend of a social platform✨.<br>🌱 I’m currently learning Fullstack Software development by ALX.<br>👯 I’m looking to collaborate on data centric projects.<br>🤔 I’m looking for help with machine learning and computer vision.<br>💬 Ask me about python 3 and Arduino😎.<br>📫 You can reach me using: <a href="kaljoshkalule@gmail.com">Email</a> Phone: +256762462407 | +256703276435<br>⚡ Fun fact: Sogeking is not Ussop.<br>
+🔭 I’m currently working on the backend of a social platform✨.<br>🌱 I’m currently learning Fullstack Software development by ALX.<br>👯 I’m looking to collaborate on data centric projects.<br>🤔 I’m looking for help with machine learning and computer vision.<br>💬 Ask me about python 3 and Arduino😎.<br>📫 You can reach me using: <a href="mailto:kaljoshkalule@gmail.com?subject=Interest in your portfolio on GitHub">Gmail</a> Phone: +256762462407 | +256703276435<br>⚡ Fun fact: Sogeking is not Ussop.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuakalule&icon=2&color=11)](https://visitcount.itsvg.in)
