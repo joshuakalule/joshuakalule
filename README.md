@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 My Stats are below:
 
 <!--START_SECTION:waka-->
-No Stats
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # 💻 Tech Stack:
