@@ -32,4 +32,4 @@ No activity tracked
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&hide=,html&theme=jekyll-theme-midnight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorkibirige&" alt="juniorkibirige">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuakalule&" alt="joshuakalule">
