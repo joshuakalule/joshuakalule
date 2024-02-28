@@ -5,9 +5,10 @@
     <span align="center">Joshua Kalule</span></br>
     <small align="center" font-size="15"></small>
 </p>
-<p align="center" >
+
+---
 [![](https://visitcount.itsvg.in/api?id=joshuakalule&icon=2&color=11)](https://visitcount.itsvg.in)
-</p>
+
 <!--
 **joshuakalule/joshuakalule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
