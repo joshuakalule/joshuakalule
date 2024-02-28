@@ -30,6 +30,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=joshuakalule&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&hide=,html&theme=jekyll-theme-midnight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuakalule&" alt="joshuakalule">
