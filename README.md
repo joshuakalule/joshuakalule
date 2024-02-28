@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 My Stats are below:
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&hide=,html&theme=jekyll-theme-midnight)
