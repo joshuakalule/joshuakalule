@@ -6,13 +6,7 @@
     <small align="center" font-size="15"></small>
 </p>
 # 💫 About Me:
-- 🔭 I’m currently working on the backend of a social platform✨
-- 🌱 I’m currently learning Fullstack Software development by ALX
-- 👯 I’m looking to collaborate on data centric projects
-- 🤔 I’m looking for help with machine learning and computer vision
-- 💬 Ask me about python 3 and Arduino😎
-- 📫 You can reach me using: <a href="kaljoshkalule@gmail.com">Email</a> Phone: +256762462407 | +256703276435
-- ⚡ Fun fact: Sogeking is not Ussop.
+🔭 I’m currently working on the backend of a social platform✨.<br>🌱 I’m currently learning Fullstack Software development by ALX.<br>👯 I’m looking to collaborate on data centric projects.<br>🤔 I’m looking for help with machine learning and computer vision.<br>💬 Ask me about python 3 and Arduino😎.<br>📫 You can reach me using: <a href="kaljoshkalule@gmail.com">Email</a> Phone: +256762462407 | +256703276435<br>⚡ Fun fact: Sogeking is not Ussop.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joshuakalule&icon=2&color=11)](https://visitcount.itsvg.in)
@@ -32,11 +26,9 @@ No activity tracked
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joshuakalule&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joshuakalule&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+---
 ![](https://github-profile-trophy.vercel.app/?username=joshuakalule&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-Also, I hobby in gaming🎮, 3D modeling and printing🎨 and Music system design🤓 
+---
+Also, I hobby in gaming🎮, 3D modeling & printing🎨 and Music system design🤓 
