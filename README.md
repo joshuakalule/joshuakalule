@@ -13,7 +13,7 @@
 
 My Stats are below:
 <!--START_SECTION:waka-->
-```txt```
+```No stats available```
 <!--END_SECTION:waka-->
 
 # 💻 Tech Stack:
