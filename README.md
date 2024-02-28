@@ -14,7 +14,7 @@
 
 My Stats are below:
 <!--START_SECTION:waka-->
-No activity tracked
+```txt```
 <!--END_SECTION:waka-->
 
 ---
