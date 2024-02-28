@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center" style="border-radius:50%;width:250px;height:250px">
+    <img src="https://avatars.githubusercontent.com/u/119660313?v=4" alt="Profile Picture of Joshua Kalule" /></br>
+    <span align="center">Joshua Kalule</span></br>
+    <small align="center" font-size="15"></small>
+</p>
 <!--
 **joshuakalule/joshuakalule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
