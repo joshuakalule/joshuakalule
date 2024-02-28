@@ -37,8 +37,6 @@ No activity tracked
 
 ![](https://github-profile-trophy.vercel.app/?username=joshuakalule&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&hide=,html&theme=jekyll-theme-midnight)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuakalule&" alt="joshuakalule">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakalule&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
 Also, I hobby in gaming🎮, 3D modeling and printing🎨 and Music system design🤓 
