@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Stats are below:
+
+<!--START_SECTION:waka-->
+
+```txt
+No Activity tracked
+```
+
+<!--END_SECTION:waka-->
