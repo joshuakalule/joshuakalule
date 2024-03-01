@@ -15,8 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   38 mins         ███████████████░░░░░░░░░░   59.55 %
-YAML       26 mins         ██████████░░░░░░░░░░░░░░░   40.45 %
+Markdown   59 mins         █████████████████▒░░░░░░░   69.36 %
+YAML       26 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 %
 ```
 
 <!--END_SECTION:waka-->
