@@ -15,8 +15,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-C      6 hrs 24 mins   █████████████████████████   99.68 %
-TOML   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+C   6 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
