@@ -15,10 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 38 mins   █████████████████████░░░░   83.54 %
-SQL          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Puppet       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python   29 mins         ████████████████▓░░░░░░░░   66.48 %
+Puppet   14 mins         ████████▒░░░░░░░░░░░░░░░░   33.52 %
 ```
 
 <!--END_SECTION:waka-->
