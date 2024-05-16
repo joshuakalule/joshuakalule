@@ -15,8 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   29 mins         ████████████████▓░░░░░░░░   66.48 %
-Puppet   14 mins         ████████▒░░░░░░░░░░░░░░░░   33.52 %
+Python   28 mins         ████████████████▒░░░░░░░░   65.66 %
+Puppet   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 %
 ```
 
 <!--END_SECTION:waka-->
