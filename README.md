@@ -15,10 +15,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   29 mins         ████████████████░░░░░░░░░   64.22 %
-Bash         10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Git Config   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
