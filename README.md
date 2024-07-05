@@ -15,7 +15,9 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vim Script   8 mins          ████████████████████▓░░░░   83.16 %
+INI          1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+SSH Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
