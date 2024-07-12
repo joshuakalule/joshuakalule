@@ -15,11 +15,9 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 43 mins   ███████████████████████░░   91.55 %
-Vim Script   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-INI          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python       2 hrs 43 mins   ████████████████████████▒   97.38 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
