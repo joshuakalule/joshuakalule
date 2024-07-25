@@ -15,9 +15,9 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 32 mins   █████████████████████▓░░░   87.24 %
-Other        48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python       5 hrs 24 mins   █████████████████████▓░░░   86.94 %
+Other        48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
