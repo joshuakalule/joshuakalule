@@ -15,8 +15,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   21 mins         ████████████▓░░░░░░░░░░░░   51.14 %
-Ruby   20 mins         ████████████▒░░░░░░░░░░░░   48.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
