@@ -15,8 +15,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 4 mins     ████████████████████████▓   99.30 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
