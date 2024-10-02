@@ -15,10 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 28 mins   ██████████████████████▓░░   91.01 %
-Python       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   1 hr 54 mins    █████████████████████████   99.48 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
