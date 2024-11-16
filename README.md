@@ -15,11 +15,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 3 mins    █████████████████▒░░░░░░░   69.06 %
-CSS          58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
