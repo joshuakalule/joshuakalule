@@ -15,7 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   51 mins         █████████████████████████   100.00 %
+HTML     51 mins         ███████████████████████░░   91.85 %
+Python   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
 ```
 
 <!--END_SECTION:waka-->
