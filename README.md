@@ -15,9 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML    1 hr 16 mins    ███████████████████████▓░   94.70 %
-Text    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+HTML    4 mins          ████████████████████████▒   97.60 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
