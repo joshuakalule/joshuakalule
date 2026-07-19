@@ -15,7 +15,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       2 hrs 11 mins         █████████░░░░░░░░░░░░░░░░   35.92 %
+JavaScript   1 hr 35 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Markdown     1 hr                  ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+Other        30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Text         22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 <!--END_SECTION:waka-->
