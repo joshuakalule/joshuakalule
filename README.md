@@ -15,7 +15,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       1 hr 51 mins          ████████████████████████▒   97.53 %
+JavaScript   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
